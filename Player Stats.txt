@@ -1,17 +1,18 @@
-Astrodosa Score: 250 Passes: 8 Assists: 0 Shots: 0 Goals: 0 Tackles: 0 Interceptions: 5 GK Catches: 6 GK Saves: 0
-Buschlight Score: 240 Passes: 10 Assists: 0 Shots: 0 Goals: 0 Tackles: 7 Interceptions: 7 GK Catches: 0 GK Saves: 0
-crims Score: 290 Passes: 13 Assists: 0 Shots: 0 Goals: 0 Tackles: 6 Interceptions: 10 GK Catches: 0 GK Saves: 0
-Nickyuh Score: 400 Passes: 20 Assists: 1 Shots: 0 Goals: 0 Tackles: 1 Interceptions: 9 GK Catches: 0 GK Saves: 0
-BradyB Score: 250 Passes: 13 Assists: 0 Shots: 1 Goals: 0 Tackles: 2 Interceptions: 8 GK Catches: 0 GK Saves: 0
-Loosh Score: 570 Passes: 6 Assists: 0 Shots: 5 Goals: 3 Tackles: 4 Interceptions: 7 GK Catches: 0 GK Saves: 0
-Derpin Score: 470 Passes: 11 Assists: 1 Shots: 2 Goals: 1 Tackles: 5 Interceptions: 7 GK Catches: 0 GK Saves: 0
-poke Score: 300 Passes: 10 Assists: 1 Shots: 0 Goals: 0 Tackles: 5 Interceptions: 5 GK Catches: 0 GK Saves: 0
-Romans1029 Score: 240 Passes: 8 Assists: 0 Shots: 0 Goals: 0 Tackles: 0 Interceptions: 0 GK Catches: 3 GK Saves: 1
-S0KOW Score: 270 Passes: 8 Assists: 0 Shots: 0 Goals: 0 Tackles: 12 Interceptions: 7 GK Catches: 0 GK Saves: 0
-ADRIAN Score: 60 Passes: 2 Assists: 0 Shots: 0 Goals: 0 Tackles: 1 Interceptions: 3 GK Catches: 0 GK Saves: 0
-Nya Score: 330 Passes: 13 Assists: 0 Shots: 0 Goals: 0 Tackles: 10 Interceptions: 10 GK Catches: 0 GK Saves: 0
-Drafty Score: 200 Passes: 10 Assists: 0 Shots: 0 Goals: 0 Tackles: 4 Interceptions: 6 GK Catches: 0 GK Saves: 0
-Cola Score: 350 Passes: 10 Assists: 1 Shots: 0 Goals: 0 Tackles: 4 Interceptions: 11 GK Catches: 0 GK Saves: 0
-imp Score: 210 Passes: 11 Assists: 0 Shots: 0 Goals: 0 Tackles: 5 Interceptions: 5 GK Catches: 0 GK Saves: 0
-Ryezu Score: 240 Passes: 5 Assists: 0 Shots: 3 Goals: 1 Tackles: 3 Interceptions: 0 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Huntsmen Opponent: Black Tigers Position: GK Name: Astrodosa Score: 250 Passes: 8 Assists: 0 Shots: 0 Goals: 0 Tackles: 0 Interceptions: 5 GK Catches: 6 GK Saves: 0
+Date: 1/27/2024 Team: Huntsmen Opponent: Black Tigers Position: Flex Name: BuschLight Score: 240 Passes: 10 Assists: 0 Shots: 0 Goals: 0 Tackles: 7 Interceptions: 7 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Huntsmen Opponent: Black Tigers Position: Defender Name: crims Score: 290 Passes: 13 Assists: 0 Shots: 0 Goals: 0 Tackles: 6 Interceptions: 10 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Huntsmen Opponent: Black Tigers Position: Flex Name: Nickyuh Score: 400 Passes: 20 Assists: 1 Shots: 0 Goals: 0 Tackles: 1 Interceptions: 9 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Huntsmen Opponent: Black Tigers Position: Flex Name: BradyB Score: 250 Passes: 13 Assists: 0 Shots: 1 Goals: 0 Tackles: 2 Interceptions: 8 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Huntsmen Opponent: Black Tigers Position: Forward Name: Loosh Score: 570 Passes: 6 Assists: 0 Shots: 5 Goals: 3 Tackles: 4 Interceptions: 7 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Huntsmen Opponent: Black Tigers Position: Forward Name: Derpin Score: 470 Passes: 11 Assists: 1 Shots: 2 Goals: 1 Tackles: 5 Interceptions: 7 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Huntsmen Opponent: Black Tigers Position: Forward Name: poke Score: 300 Passes: 10 Assists: 1 Shots: 0 Goals: 0 Tackles: 5 Interceptions: 5 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Black Tigers Opponent: Huntsmen Position: GK Name: Romans1029 Score: 240 Passes: 8 Assists: 0 Shots: 0 Goals: 0 Tackles: 0 Interceptions: 0 GK Catches: 3 GK Saves: 1
+Date: 1/27/2024 Team: Black Tigers Opponent: Huntsmen Position: Defender S0KOW Score: 270 Passes: 8 Assists: 0 Shots: 0 Goals: 0 Tackles: 12 Interceptions: 7 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Black Tigers Opponent: Huntsmen Position: Flex ADRIAN Score: 60 Passes: 2 Assists: 0 Shots: 0 Goals: 0 Tackles: 1 Interceptions: 3 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Black Tigers Opponent: Huntsmen Position: Defender Nya Score: 330 Passes: 13 Assists: 0 Shots: 0 Goals: 0 Tackles: 10 Interceptions: 10 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Black Tigers Opponent: Huntsmen Position: Mid Drafty Score: 200 Passes: 10 Assists: 0 Shots: 0 Goals: 0 Tackles: 4 Interceptions: 6 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Black Tigers Opponent: Huntsmen Position: Mid Cola Score: 350 Passes: 10 Assists: 1 Shots: 0 Goals: 0 Tackles: 4 Interceptions: 11 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Black Tigers Opponent: Huntsmen Position: Forward imp Score: 210 Passes: 11 Assists: 0 Shots: 0 Goals: 0 Tackles: 5 Interceptions: 5 GK Catches: 0 GK Saves: 0
+Date: 1/27/2024 Team: Black Tigers Opponent: Huntsmen Position: Forward Ryezu Score: 240 Passes: 5 Assists: 0 Shots: 3 Goals: 1 Tackles: 3 Interceptions: 0 GK Catches: 0 GK Saves: 0
+
 
